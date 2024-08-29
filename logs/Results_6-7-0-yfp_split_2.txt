@@ -1,0 +1,8 @@
+Loaded model: 6-7-0-yfp_split_2.pt
+Test acc: 0.598910310142498
+Test prec: 0.5940054495912807
+Test rec: 0.9540481400437637
+Test F1: 0.7321578505457599
+Test F2: 0.8508977361436378
+Total: torch.Size([2386]), total positive: 1371
+Wrongly predicted: 957, wrongly predicted positive: 63

@@ -1,0 +1,8 @@
+Loaded model: 8-20_split_3.pt
+Test acc: 0.3364195687234932
+Test prec: 0.41338813857897827
+Test rec: 0.6437307120813808
+Test F1: 0.5034639967818353
+Test F2: 0.579185520361991
+Total: torch.Size([66964]), total positive: 34996
+Wrongly predicted: 44436, wrongly predicted positive: 12468

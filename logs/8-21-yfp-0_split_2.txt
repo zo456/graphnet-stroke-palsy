@@ -1,0 +1,67 @@
+Seed: 3546, model: GCNMid
+SPLIT: 2
+EPOCH: 0
+Train total: torch.Size([36952]), Train positive: 18943
+Training acc: 0.487361983113228
+Loss:0.7165549397468567
+Val total: torch.Size([16761]), val positive: 9600
+Val acc: 0.4272418113477716
+Val F2: 0.0
+New LR: 0.005
+EPOCH: 1
+Training acc: 0.487361983113228
+Loss:0.044274572283029556
+Val total: torch.Size([16761]), val positive: 9600
+Val acc: 0.4272418113477716
+Val F2: 0.0
+EPOCH: 2
+Training acc: 0.487361983113228
+Loss:0.01315153855830431
+Val total: torch.Size([16761]), val positive: 9600
+Val acc: 0.4272418113477716
+Val F2: 0.0
+EPOCH: 3
+Training acc: 0.487361983113228
+Loss:0.004087919369339943
+Val total: torch.Size([16761]), val positive: 9600
+Val acc: 0.4272418113477716
+Val F2: 0.0
+EPOCH: 4
+Training acc: 0.487361983113228
+Loss:0.0016571945743635297
+Val total: torch.Size([16761]), val positive: 9600
+Val acc: 0.4272418113477716
+Val F2: 0.0
+EPOCH: 5
+Training acc: 0.49071768781121455
+Loss:0.0009990382241085172
+Val total: torch.Size([16761]), val positive: 9600
+Val acc: 0.42754012290436133
+Val F2: 0.0006509569066527795
+EPOCH: 6
+Training acc: 0.5512556830482789
+Loss:0.0015670179855078459
+Val total: torch.Size([16761]), val positive: 9600
+Val acc: 0.4666785991289302
+Val F2: 0.08461124907196436
+EPOCH: 7
+Training acc: 0.8081024031175579
+Loss:0.000682705664075911
+Val total: torch.Size([16761]), val positive: 9600
+Val acc: 0.7697631406240678
+Val F2: 0.6503024399084751
+EPOCH: 8
+Training acc: 0.9591361766616151
+Loss:0.0002900069230236113
+Val total: torch.Size([16761]), val positive: 9600
+Val acc: 0.9733309468408806
+Val F2: 0.9623998485899945
+EPOCH: 9
+Training acc: 0.9980244641697337
+Loss:0.0006553036510013044
+Val total: torch.Size([16761]), val positive: 9600
+Val acc: 0.9986874291510053
+Val F2: 0.9981658260035848
+Test total: torch.Size([13251]), test positive: 6453
+Test acc: 0.9990944079692099
+Test F2: 0.9985117663473166
